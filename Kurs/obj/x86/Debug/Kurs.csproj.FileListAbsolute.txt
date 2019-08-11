@@ -1,0 +1,11 @@
+/home/zess/Projects/Kurs/Kurs/bin/Debug/Kurs.exe
+/home/zess/Projects/Kurs/Kurs/bin/Debug/Kurs.pdb
+/home/zess/Projects/Kurs/Kurs/bin/Debug/MySql.Data.dll
+/home/zess/Projects/Kurs/Kurs/bin/Debug/Google.Protobuf.dll
+/home/zess/Projects/Kurs/Kurs/bin/Debug/BouncyCastle.Crypto.dll
+/home/zess/Projects/Kurs/Kurs/bin/Debug/MySql.Data.xml
+/home/zess/Projects/Kurs/Kurs/obj/x86/Debug/Kurs.csprojAssemblyReference.cache
+/home/zess/Projects/Kurs/Kurs/obj/x86/Debug/Kurs.csproj.CoreCompileInputs.cache
+/home/zess/Projects/Kurs/Kurs/obj/x86/Debug/Kurs.csproj.CopyComplete
+/home/zess/Projects/Kurs/Kurs/obj/x86/Debug/Kurs.exe
+/home/zess/Projects/Kurs/Kurs/obj/x86/Debug/Kurs.pdb
