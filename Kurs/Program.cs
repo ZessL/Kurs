@@ -1132,11 +1132,11 @@ namespace Kurs
                             dbcon.Close();
                             dbcon.Open();
                             IDbCommand cmd33 = dbcon.CreateCommand();
-                            cmd33.CommandText = $"select * from {sumTab} where Count = '{_Summ}'";
+                            cmd33.CommandText = $"select * from {sumTab} where Count >= '{_Summ}'";
                             IDataReader summRead = cmd33.ExecuteReader();
 
                             int sumC = 0;
-                            Console.WriteLine("---------------------------");
+                            Console.WriteLine("|Id| Инициалы | Номер договора | Адрес | Сумма взноса | Кол-во месяцев | \n---------------------------");
                             while (summRead.Read())
                             {
                                 Console.WriteLine($"  {sumC}. {summRead.GetString(0)} {summRead.GetString(1)} {summRead.GetString(2)} {summRead.GetString(3)} {summRead.GetString(4)}");
